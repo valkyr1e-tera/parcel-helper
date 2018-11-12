@@ -1,4 +1,7 @@
 {
-    "servers": ["https://raw.githubusercontent.com/teralove/parcel-helper/master/"],
-    "supportUrl": "https://github.com/teralove/parcel-helper/issues"
+	"disableAutoUpdate": false,
+	"servers": ["https://raw.githubusercontent.com/valkyr1e-tera/parcel-helper/master/"],
+	"options": {
+		"niceName": "parcel-helper"
+	}
 }

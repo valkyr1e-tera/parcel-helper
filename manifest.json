@@ -1,17 +1,17 @@
 {
-  "files": {
-    "index.js": "caceac81dce1930dd4f728c1e193df5eb2a440408767d09b06718fe47cecab08",
-    "module.json": "fc0cd7f4dfa7ed43cdb66bb5e47a26801317601f38c52c5605d7ea167c73a584"
-  },
-  "defs": {
-    "C_LIST_PARCEL": 2,
-    "S_LIST_PARCEL_EX": 1,
-    "C_DELETE_PARCEL": 2,
-    "C_REQUEST_CONTRACT": 1,
-    "S_REPLY_REQUEST_CONTRACT": 1,
-    "C_SHOW_PARCEL_MESSAGE": 1,
-    "S_PARCEL_READ_RECV_STATUS": 2,
-    "C_RECV_PARCEL": 1,
-    "S_RECV_PARCEL": 2
-  }
+	"files": {
+		"index.js": "062ad9ef5b154946d11e60efb9b4b9ab114ce824eb5f5aefb406dc7e2e5fd740",
+		"module.json": "18ffe79308132061039e7e1058e3d2a22590e8345e9eb589fdbc8f846a6c75cb"
+	},
+	"defs": {
+		"C_DELETE_PARCEL": 2,
+		"C_LIST_PARCEL": 2,
+		"C_RECV_PARCEL": 1,
+		"C_REQUEST_CONTRACT": 1,
+		"C_SHOW_PARCEL_MESSAGE": 1,
+		"S_LIST_PARCEL_EX": 1,
+		"S_PARCEL_READ_RECV_STATUS": 2,
+		"S_RECV_PARCEL": 2,
+		"S_REPLY_REQUEST_CONTRACT": 1
+	}
 }
